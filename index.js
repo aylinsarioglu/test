@@ -1,3 +1,3 @@
-function greet() {
-  return "hello";
+function sum(a, b) {
+  return a + b;
 }
