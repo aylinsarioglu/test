@@ -1,6 +1,10 @@
-# \# Test Repo
+# \## Features
 
 # 
 
-# Daily commit practice repository.
+# \- Basic math operations
+
+# \- Modular structure
+
+# \- Simple usage example
 
